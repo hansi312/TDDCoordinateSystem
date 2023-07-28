@@ -1,0 +1,31 @@
+Mein Projekt: 
+KoordinatenSystem
+
+Zuerst: 
+Punktklasse: 
+Punkt x
+Punkt y 
+changePoint
+
+strecke zwischen zwei punkten
+
+pointList
+
+List of points
+return circumference
+remove points
+add points
+
+add points, add to list, clear list, load list, draw lines, change color
+
+changePoint with Click on list
+
+
+Backend Testing: 
+
+controller Test um endpunkt, 
+
+
+Junit zum testing 
+Testing mit Springboot 
+<artifactId>spring-boot-starter-test</artifactId>
